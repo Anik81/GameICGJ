@@ -1,0 +1,21 @@
+﻿Build started 11-Apr-19 9:23:40 AM.
+     1>Project "C:\Users\Saif\Desktop\GameICG(Final)\GameICGJ\GameICGJ.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\GameICGJ.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         F:\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /D _MBCS /D _CRT_SECURE_NO_WARNINGS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt iMain.cpp
+         iMain.cpp
+       Link:
+         F:\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Saif\Desktop\GameICG(Final)\Debug\GameICGJ.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\GameICGJ.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Saif\Desktop\GameICG(Final)\Debug\GameICGJ.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Saif\Desktop\GameICG(Final)\Debug\GameICGJ.lib" /MACHINE:X86 Debug\iMain.obj
+         LINK : C:\Users\Saif\Desktop\GameICG(Final)\Debug\GameICGJ.exe not found or not built by the last incremental link; performing full link
+         GameICGJ.vcxproj -> C:\Users\Saif\Desktop\GameICG(Final)\Debug\GameICGJ.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Saif\Desktop\GameICG(Final)\Debug\GameICGJ.exe;#1" /manifest Debug\GameICGJ.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\GameICGJ.unsuccessfulbuild".
+         Touching "Debug\GameICGJ.lastbuildstate".
+     1>Done Building Project "C:\Users\Saif\Desktop\GameICG(Final)\GameICGJ\GameICGJ.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.57
